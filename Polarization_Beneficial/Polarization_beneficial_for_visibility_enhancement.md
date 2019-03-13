@@ -29,8 +29,12 @@ where p is the degree of polarization.
 <img src ="https://github.com/motazmuhammad/Papers_summary/blob/master/Polarization_Beneficial/pictures/Equation_7.png" width ="480px">
 where alpha is the fraction of the intgeration time given to the respective acquisition image.
 
-Afterwards, the dehazing is
+Afterwards, the airlight is
 
 
 <img src ="https://github.com/motazmuhammad/Papers_summary/blob/master/Polarization_Beneficial/pictures/Equation8_Simple_Dehazing.png" width ="480px">
+
+The the dehazed image is extracted.
+
+
 
