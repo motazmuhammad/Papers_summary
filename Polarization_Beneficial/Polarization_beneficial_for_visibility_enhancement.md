@@ -24,3 +24,11 @@ where D(x) is the direct transmission, and A(x) is the airlight component.
 
 where p is the degree of polarization.
 
+3. The actual acquired images are
+
+<img src ="https://github.com/motazmuhammad/Papers_summary/blob/master/Polarization_Beneficial/pictures/Equation_7.png" width ="480px">
+where alpha is the fraction of the intgeration time given to the respective acquisition image.
+
+Afterwards, the dehazing is
+<img src ="https://github.com/motazmuhammad/Papers_summary/blob/master/Polarization_Beneficial/pictures/Equation8_Simple_Dehazing.png" width ="480px">
+
