@@ -34,7 +34,7 @@ Afterwards, the airlight is
 
 <img src ="https://github.com/motazmuhammad/Papers_summary/blob/master/Polarization_Beneficial/pictures/Equation8_Simple_Dehazing.png" width ="480px">
 
-The the dehazed image is extracted.
+Then the dehazed image is extracted.
 
 
 
