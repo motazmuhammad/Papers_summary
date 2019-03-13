@@ -13,8 +13,14 @@ c. The best way to keep the quality as good as possible is to have multiple repe
 
 Important equations.
 
-1. Image equatio
+1. Image equation
 
 <img src ="https://github.com/motazmuhammad/Papers_summary/blob/master/Polarization_Beneficial/pictures/Equation_1(Measured_image).png"  width ="400px">
+where D(x) is the direct transmission, and A(x) is the airlight component.
 
+2. Polarization equation
+
+<img src ="https://github.com/motazmuhammad/Papers_summary/blob/master/Polarization_Beneficial/pictures/Equation_5.png" width ="480px">
+
+where p is the degree of polarization.
 
