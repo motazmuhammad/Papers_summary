@@ -30,5 +30,7 @@ where p is the degree of polarization.
 where alpha is the fraction of the intgeration time given to the respective acquisition image.
 
 Afterwards, the dehazing is
+
+
 <img src ="https://github.com/motazmuhammad/Papers_summary/blob/master/Polarization_Beneficial/pictures/Equation8_Simple_Dehazing.png" width ="480px">
 
