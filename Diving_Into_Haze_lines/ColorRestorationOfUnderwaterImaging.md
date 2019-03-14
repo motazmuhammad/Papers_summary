@@ -7,6 +7,8 @@ Limitation:
 
 The paper depend on visually judging the images and rying different ocean parameters until the best ones are found. The best ones are defined to be the ones that visually represnt the image.
 
+ِAlso, somehow they thought that using stereo imaging for depth estimation is good enough even underwater.
+
 Promise of the paper:
 
 putting into account the fact that the ttenutation coefficent is strongly different from one chanel to another, Allows them to better reconstruct the images.
